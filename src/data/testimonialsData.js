@@ -12,13 +12,13 @@ export const testimonialsData = [
   },
   {
     image: image2,
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
+    review: 'Joining FitClub was the best decision I made — with the perfect plan and program, I transformed my body and my confidence! ',
     name: 'JOHN KEVIN',
     status: 'COACH'
   },
   {
     image : image3,
-    review:' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
+    review:' With the right guidance from FitClub, I stayed consistent and focused, and now I’ve reached the strongest version of myself!',
     name: 'FRANKLIN',
     status: "CUSTOMER"
   }

@@ -25,19 +25,25 @@ const Testimonials = () => {
         <div></div>
         <img src={testimonialsData[selected].image} alt="" />
         <div className="arrows">
-            <img onClick={() => {
-                selected===0 
-             ? setSelected(tLength - 1 )
-             :setSelected((prev) => prev - 1)
-            }} src={LeftArrow} alt="" />
+            <img
+  onClick={() => {
+    selected === 0
+      ? setSelected(tLength - 1)
+      : setSelected((prev) => prev - 1);
+  }}
+  src={LeftArrow}
+  alt=""
+/>
 
-            <img 
-            onClick={()=> {
-                selected===tLength
-                ? setSelected(0)
-                :setSelected((prev) => prev + 1)
-            }}
-            src={RightArrow} alt="" />
+<img
+  onClick={() => {
+    selected === tLength - 1
+      ? setSelected(0)
+      : setSelected((prev) => prev + 1);
+  }}
+  src={RightArrow}
+  alt=""
+/>
 
         </div>
     </div>
