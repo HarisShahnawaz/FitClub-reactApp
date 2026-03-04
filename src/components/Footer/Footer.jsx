@@ -20,13 +20,12 @@ const Footer = () => {
     <div className="logo">
       <img src={Logo} alt="logo" />
     </div>
-     <div className="blur blur-f1"></div>
-     <div className="blur blur-f2"></div>
+  
 
      
 
     <p className="copyright">
-      © 2026 FitClub. All rights reserved.
+      © 2026 FitClub.By Haris Coding.
     </p>
 
   </div>
