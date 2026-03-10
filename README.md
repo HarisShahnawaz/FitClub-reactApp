@@ -4,8 +4,8 @@ A responsive fitness and gym website built with React,
 featuring smooth animations and a modern energetic UI.
 
 ## 🔗 Live Demo
-
 [View Live →](https://fitclubwebsitebyhariscoding.pages.dev/)
+```
 
 ## 📸 Screenshot
 ![FitClub Screenshot](screenshot.png)
@@ -34,4 +34,5 @@ npm run dev
 
 ## 📬 Contact
 **Haris Shahnawaz** — [LinkedIn](https://www.linkedin.com/in/haris-shahnawaz-670aa8291?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [Email](mailto:harisshahnawaz97@gmail.com)
+
 
